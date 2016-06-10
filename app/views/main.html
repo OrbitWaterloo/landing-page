@@ -1,0 +1,71 @@
+<div ng-controller="ViewdataCtrl as viewData">
+ <!-- About -->
+ <section id="about">
+     <div class="container-fluid">
+
+         <div class="row">
+
+             <div class="col-md-4 text-center">
+                 <h2 class="section-heading">Less is More</h2>
+                 <hr>
+                 <p class="section-subheading">Instead of paying for each ad spot, Orbit gives you access to the entire <b>Orbit platform  with one flat rate</b>. Sometimes you <b>CAN</b> get more than what you paid for.</p>
+             </div>
+
+             <div ng-controller="ChartdataCtrl as chartData" id="chart-container" class= " section-heading col-md-8 barchart">
+             </div>
+
+         </div>
+         <section id="steps" class="steps-section alt-bg"> 
+             <h2 class="steps-header"> Simple {{viewData.steps.length}} Step Process</h2>
+             <hr>
+             <div class="row">
+             <div class="col-lg-12">
+                 <ul class="timeline">
+                     <li ng-class-even="'timeline-inverted'" ng-repeat="step in viewData.steps">
+                         <div class="timeline-image">
+                             <img class="img-circle img-responsive" ng-src="{{step.imgSrc}}" alt="">
+                         </div>
+                         <div class="timeline-panel">
+                             <div class="timeline-heading">
+                                 <h4> {{step.title}}</h4>
+                                 <h4 class="subheading">{{step.stepTitle}}</h4>
+                             </div>
+                             <div class="timeline-body">
+                                 <p>{{step.textBody}}</p>
+                             </div>
+                         </div>
+                     </li>
+                 
+                    
+                 </ul>
+             </div>
+             </div> 
+         </section>       
+     </div>
+ </section>
+
+ <!-- Services Section -->
+<section id="services">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Why Choose Orbit</h2>
+            </div>
+
+        </div>
+        <hr>
+        <div class="row text-center">
+            <div class="col-md-4" ng-repeat="service in viewData.services">
+                <div>
+                    <img class="img-centered" ng-src="{{service.imgSrc}}" alt="">
+                </div>
+                <h4 class="service-heading">{{service.title}}</h4>
+                <p class="text-service-desc">{{service.textBody}}</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Endorsments Section -->
+
+</div>

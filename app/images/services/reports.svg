@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Data</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Data">
+            <g id="ic_data_feedback">
+                <g>
+                    <g id="monitor" transform="translate(8.000000, 12.000000)">
+                        <rect id="XMLID_243_" fill="#87D2F1" x="23.1578947" y="57.1764706" width="33.6842105" height="8.47058824"></rect>
+                        <polygon id="XMLID_244_" fill="#AFE1F6" points="23.1578947 65.6470588 16.8421053 65.6470588 16.8421053 72 63.1578947 72 63.1578947 65.6470588 56.8421053 65.6470588"></polygon>
+                        <polygon id="XMLID_245_" fill="#37B5E9" points="6.31578947 50.8235294 6.31578947 44.4705882 6.31578947 12.7058824 6.31578947 6.35294118 40 6.35294118 40 0 0 0 0 57.1764706 40 57.1764706 40 50.8235294"></polygon>
+                        <polygon id="XMLID_307_" fill="#5FC3ED" points="40 0 40 6.35294118 73.6842105 6.35294118 73.6842105 12.7058824 73.6842105 44.4705882 73.6842105 50.8235294 40 50.8235294 40 57.1764706 80 57.1764706 80 0"></polygon>
+                        <g id="graph" transform="translate(19.000000, 10.000000)">
+                            <rect id="XMLID_1101_" fill="#F6A43B" x="0" y="13" width="6" height="20"></rect>
+                            <rect id="XMLID_1101_" fill="#F9C889" x="22" y="18" width="6" height="15"></rect>
+                            <rect id="XMLID_1102_" fill="#F8BF76" x="16" y="8" width="6" height="25"></rect>
+                            <rect id="XMLID_1102_" fill="#FBDAB0" x="37" y="0" width="6" height="33"></rect>
+                            <rect id="Combined-Shape" fill="#FAD19D" x="31" y="3" width="6" height="30"></rect>
+                            <rect id="Combined-Shape" fill="#F7B662" x="6" y="13" width="6" height="20"></rect>
+                        </g>
+                    </g>
+                    <g id="mag_glass" transform="translate(69.000000, 65.500000) rotate(-45.000000) translate(-69.000000, -65.500000) translate(58.000000, 50.000000)">
+                        <rect id="Rectangle-39" fill="#DC9600" x="9.77777778" y="20.6666667" width="3.05555556" height="10.3333333"></rect>
+                        <ellipse id="Oval-4" stroke="#F6A43B" stroke-width="2.4" fill-opacity="0.5" fill="#F8BF76" cx="11" cy="10.9411765" rx="11" ry="10.9411765"></ellipse>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="96" height="96"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Launch</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Launch">
+            <g id="rocket-ship" transform="translate(24.000000, 8.000000)">
+                <g id="Layer_1">
+                    <g id="Group">
+                        <polygon id="Shape" fill="#F9C889" points="38.9295134 53.0145455 38.9295134 74.6066116 48.9202517 74.6066116 48.9202517 59.6363636"></polygon>
+                        <polygon id="Shape" fill="#F8BF76" points="0.0386409396 59.6363636 0.0386409396 74.6066116 10.0293792 74.6066116 10.0293792 53.0145455"></polygon>
+                        <rect id="Rectangle-path" fill="#FAD19D" x="15.7063087" y="74.6066116" width="6.57718121" height="5.35206612"></rect>
+                        <rect id="Rectangle-path" fill="#FBDAB0" x="26.6754027" y="74.6066116" width="6.57718121" height="5.35206612"></rect>
+                        <rect id="Rectangle-path" fill="#5FC3ED" x="24.4794463" y="24.0264463" width="14.4500671" height="50.5801653"></rect>
+                        <rect id="Rectangle-path" fill="#37B5E9" x="10.0293792" y="24.0264463" width="14.4500671" height="50.5801653"></rect>
+                        <polygon id="Shape" fill="#F7B662" points="38.9295134 24.0264463 38.9295134 15.0016529 24.4794463 0 24.4794463 24.0264463"></polygon>
+                        <polygon id="Shape" fill="#F6A43B" points="24.4794463 0 10.0293792 15.0016529 10.0293792 24.0264463 24.4794463 24.0264463"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
